@@ -19,6 +19,12 @@
 # Install Python 3
 apt install python3
 
+#install github 
+pkg install git
+
+#clone the repo
+git clone https://github.com/MrTusarRX/DumpSDK.git
+
 # Install required Python module
 pip install tqdm
 
