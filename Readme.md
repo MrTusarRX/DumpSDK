@@ -12,8 +12,9 @@
 ## 🔧 Usage
 
 ```bash
+git clone https://github.com/NepMods/DumpSDK.git
 chmod +x Dump.sh
-./dumpsdk.sh
+./Dump.sh
 ```
 
 ---
