@@ -14,8 +14,6 @@
 ```bash
 #clone the repo
 git clone https://github.com/NepMods/DumpSDK.git
-
-
 cd DumpSDK
 chmod +x Dump.sh
 ./Dump.sh
